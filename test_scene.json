@@ -1,0 +1,37 @@
+{
+  "start": {
+    "speaker": "Sweet Peep",
+    "text": "🌸 Hello! This is Sweet Peep testing the multi-bot system.",
+    "wait": 3,
+    "choices": null,
+    "next": "orlin_test"
+  },
+  "orlin_test": {
+    "speaker": "Orlin",
+    "text": "🔧 Orlin here from the workshop - systems are running smoothly!",
+    "wait": 3,
+    "choices": null,
+    "next": "cloudbelle_test"
+  },
+  "cloudbelle_test": {
+    "speaker": "CloudBelle",
+    "text": "✨ CloudBelle joining in - peace and blessings to all!",
+    "wait": 3,
+    "choices": null,
+    "next": "elroi_test"
+  },
+  "elroi_test": {
+    "speaker": "El Roi",
+    "text": "👁️ El Roi witnessing the harmony of voices in Wispwell...",
+    "wait": 3,
+    "choices": null,
+    "next": "zeph_test"
+  },
+  "zeph_test": {
+    "speaker": "Zeph",
+    "text": "🌬️ Zeph brings the winds of completion - **Test Complete** - All 5 bots coordinated successfully! ✅",
+    "wait": 3,
+    "choices": null,
+    "next": null
+  }
+}

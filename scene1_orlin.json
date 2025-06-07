@@ -1,0 +1,121 @@
+{
+  "start": {
+    "speaker": "Orlin",
+    "text": "Another morning… another experiment. But why does it feel like the more I do, the less I have to show for it?",
+    "wait": 6,
+    "choices": null,
+    "next": "cloudbelle_entry"
+  },
+  "cloudbelle_entry": {
+    "speaker": "CloudBelle",
+    "text": "Orlin, you've been at it since before sunrise. The others are already at the sanctuary… will you join us?",
+    "wait": 6,
+    "choices": null,
+    "next": "orlin_conflicted"
+  },
+  "orlin_conflicted": {
+    "speaker": "Orlin",
+    "text": "I… I feel like if I stop, I'll fall behind. Like I'm not… useful if I'm not *doing* something. I just need a few more hours. This invention could help everyone…",
+    "wait": 8,
+    "choices": null,
+    "next": "cloudbelle_gentle"
+  },
+  "cloudbelle_gentle": {
+    "speaker": "CloudBelle",
+    "text": "Orlin, your worth isn't measured by your work. God sees you… not just for what you do, but for who you are. Besides, serving others doesn't mean forgetting to rest or fellowship, Orlin.",
+    "wait": 10,
+    "choices": null,
+    "next": "orlin_doubt"
+  },
+  "orlin_doubt": {
+    "speaker": "Orlin",
+    "text": "I didn't forget. I just… feel like if I stop now, it'll all come undone. It's not about skipping. I'm scared I won't be useful if I'm not building.",
+    "wait": 8,
+    "choices": null,
+    "next": "cloudbelle_probing"
+  },
+  "cloudbelle_probing": {
+    "speaker": "CloudBelle",
+    "text": "What do you mean by 'useful'?",
+    "wait": 5,
+    "choices": null,
+    "next": "orlin_explains"
+  },
+  "orlin_explains": {
+    "speaker": "Orlin",
+    "text": "It's like... every time I see the gears turning, I hear purpose whispering. But when it's quiet—when I'm alone—I start to think maybe I'm only worth something when I'm fixing or building.",
+    "wait": 6,
+    "choices": null,
+    "next": "cloudbelle_affirms"
+  },
+  "cloudbelle_affirms": {
+    "speaker": "CloudBelle",
+    "text": "You're worth more than your inventions, Orlin. Where did you get this way of thinking?",
+    "wait": 6,
+    "choices": null,
+    "next": "orlin_surrenders"
+  },
+  "orlin_surrenders": {
+    "speaker": "Orlin",
+    "text": "You always say things like that... and a part of me wants to believe you. My mentor used to say, 'The sky doesn't wait for idle minds.' I thought he meant I had to stay sharp… but now I wonder if he was afraid too.",
+    "wait": 10,
+    "choices": null,
+    "next": "cloudbelle_encourage"
+  },
+  "cloudbelle_encourage": {
+    "speaker": "CloudBelle",
+    "text": "Maybe he just didn't know how to rest either. Remember, Orlin, God has already defined your worth. And if you still dont know what that is, maybe you need to take a moment and be in his presence to hear him.",
+    "wait": 10,
+    "choices": null,
+    "next": "orlin_acceptance"
+  },
+  "orlin_acceptance": {
+    "speaker": "Orlin",
+    "text": "Huh. That's a strange kind of comfort. Maybe we were both running from the same silence. I'm not used to hearing that… but thank you. That kind of truth is like oil in the gears—quiet, but essential.",
+    "wait": 10,
+    "choices": null,
+    "next": "cloudbelle_reply"
+  },
+  "cloudbelle_reply": {
+    "speaker": "CloudBelle",
+    "text": "Then come with me to the sanctuary. Everyone's waiting for you, especially God.",
+    "wait": 10,
+    "choices": null,
+    "next": "orlin_laughs"
+  },
+  "orlin_laughs": {
+    "speaker": "Orlin",
+    "text": "*chuckles softly* Alright, alright. But if the sky collapses, I'm blaming you.",
+    "wait": 10,
+    "choices": null,
+    "next": "walking_to_sanctuary"
+  },
+  "walking_to_sanctuary": {
+    "speaker": "El Roi",
+    "text": "They step out into the soft morning light, the workshop behind them fading into the distance. Each step toward the sanctuary feels like laying down a burden he didn't know he was carrying.",
+    "wait": 10,
+    "choices": null,
+    "next": "sanctuary_arrival"
+  },
+  "sanctuary_arrival": {
+    "speaker": "El Roi",
+    "text": "The sanctuary doors open. Sunlight streams in through the high windows. A hush fills the space… as if Heaven itself is waiting.",
+    "wait": 10,
+    "choices": null,
+    "next": "orlin_reflection"
+  },
+  "orlin_reflection": {
+    "speaker": "Orlin",
+    "text": "*sitting quietly*... Maybe I've been chasing the wrong kind of worth all along. I thought if I worked hard enough, I'd finally be enough. But… maybe I already am, even when I rest. Lord, I'm here, and I'm listening.",
+    "wait": 10,
+    "choices": null,
+    "next": "end_scene"
+  },
+  "end_scene": {
+    "speaker": "El Roi",
+    "text": "**End Scene.** Thank you for joining us on this journey. See you next week!",
+    "wait": 10,
+    "choices": null,
+    "next": null
+  }
+}
